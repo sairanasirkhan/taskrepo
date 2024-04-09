@@ -1,0 +1,83 @@
+#masterdiv{
+    height: 58%;
+    margin: 15px;
+    width: 59%;
+    border: 3px solid rgb(172, 35, 99);
+    padding: 7px;
+}
+#portion1{
+    height: 340px;
+    width: 40%;
+    margin: 20 auto;
+    padding: 10px 10px;
+}
+ .para{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+     }
+     .heading{
+        color: blue;
+        font-size: bold;
+        text-align: center;
+     }
+#butt{
+    display: flex; 
+    margin-top: 39px;
+    padding: 1px;
+} 
+.but1{
+ background-color:rgb(148, 103, 252);
+ margin: 6px;
+}
+.second{
+    background-color:rgb(116, 108, 108);
+    margin: 6px;
+}  
+
+/* ...........try......... */
+#masterdiv2{
+    height: 58%;
+    margin: 5px;
+    width: 59%;
+    border: 3px solid rgb(189, 79, 130);
+    padding: 10px;
+    display: flex;
+    margin: 15px;
+}
+.image1{
+    height: 250px;
+    width: 250px;
+    padding: 15px;
+    margin: 35px;
+    border-radius: 10px;
+    border: 2px solid hwb(0 91% 7% / 0.904);
+    background-image: url("propic/pracpic3.jpg");
+    background-size:  cover;
+    justify-content: center;
+    box-shadow: 5px 5px 20px rgba(173, 35, 35, 0.253) , inset -20px -20px 60px rgba(255, 255, 255, 0.76);
+}
+.image2{
+    height: 250px;
+    width: 250px;
+    padding: 15px;
+    margin: 35px;
+    border-radius: 10px;
+    border: 2px solid rgba(243, 236, 236, 0.87);
+    background-image: url("propic/prapic2.jpg");
+    background-size:  cover;
+    justify-content: center;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.253) , inset -20px -20px 60px rgba(255, 255, 255, 0.76);
+}
+.image3{
+    height: 250px;
+    width: 250px;
+    padding: 15px;
+    margin: 35px;
+    border-radius: 10px;
+    border: 2px solid rgba(233, 222, 222, 0.87);
+    background-image: url("propic/pracpic.jpg");
+    background-size:  cover;
+    justify-content: center;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.253) , inset -20px -20px 60px rgba(255, 255, 255, 0.76);
+}
